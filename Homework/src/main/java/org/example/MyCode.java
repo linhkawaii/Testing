@@ -1,6 +1,6 @@
 package org.example;
 
-public class KiemThuDongDieuKhien {
+public class MyCode {
     public static boolean ValidOrInvalid(String ID) {
         // input invalid
         if (ID == null || ID.length() != 8){
